@@ -1,0 +1,9 @@
+{
+    "actualizar": true,
+    "latestVersion": "1.0.1",
+    "latestVersionCode": 2,
+    "minVersionCode": 1,
+    "updateRequired": false,
+    "updateMessage": "Nueva actualización disponible",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.noahjutz.gymroutines"
+}
