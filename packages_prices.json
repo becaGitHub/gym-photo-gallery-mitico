@@ -4,7 +4,7 @@
             "packageId": "p-basico",
             "image": "p-basico.jpeg",
             "title": "Paquete Básico",
-            "price": "160 Bs/mes",
+            "price": "200 Bs/mes",
             "highlighted": true,
             "features": [
                 "Entrenamiento personalizado",
@@ -17,7 +17,7 @@
             "packageId": "p-basico_dance",
             "image": "p-basico_dance.jpeg",
             "title": "Paquete Básico Dance",
-            "price": "250 Bs/mes",
+            "price": "400 Bs/mes",
             "highlighted": false,
             "features": [
                 "Baile fitness",
@@ -26,25 +26,12 @@
                 "Horario flexible",
                 "Acceso a todas las máquinas"
             ]
-        },
-        {   
-            "packageId": "p-quincenal",
-            "image": "p-quincenal.jpeg",
-            "title": "Paquete 15 días",
-            "price": "110 Bs/mes",
-            "highlighted": false,
-            "features": [
-                "Entrenamiento personalizado",
-                "Acceso completo al gimnasio por 15 días",
-                "Horario flexible",
-                "Acceso a todas las máquinas"
-            ]
-        },
+        },       
         {   
             "packageId": "p-fit",
             "image": "p-fit.jpeg",
             "title": "Paquete Fit",
-            "price": "180 Bs/mes",
+            "price": "240 Bs/mes",
             "highlighted": true,
             "features": [
                 "Batido semanal",
@@ -58,7 +45,7 @@
             "packageId": "p-basico_fit",
             "image": "p-basico_fit.jpeg",
             "title": "Paquete Básico Fit",
-            "price": "260 Bs/mes",
+            "price": "300 Bs/mes",
             "highlighted": false,
             "features": [
                 "Nutricionista profesional",
@@ -72,7 +59,7 @@
             "packageId": "p-fit_dance",
             "image": "p-fit_dance.jpeg",
             "title": "Paquete Fit Dance",
-            "price": "280 Bs/mes",
+            "price": "420 Bs/mes",
             "highlighted": false,
             "features": [
                 "Batido semanal",
@@ -87,7 +74,7 @@
             "packageId": "p-mitico_fitness",
             "image": "p-mitico_fitness.jpeg",
             "title": "Mítico fitness",
-            "price": "300 Bs/mes",
+            "price": "530 Bs/mes",
             "highlighted": false,
             "features": [
                 "Bachata",
@@ -102,7 +89,7 @@
             "packageId": "p-mitico",
             "image": "p-mitico.jpeg",
             "title": "Mítico",
-            "price": "280 Bs/mes",
+            "price": "320 Bs/mes",
             "highlighted": false,
             "features": [
                 "Batido semanal",
@@ -113,11 +100,11 @@
                 "Acceso a todas las máquinas"
             ]
         },
-        {   
+        {
             "packageId": "p-mitico_dance",
             "image": "p-mitico_dance.jpeg",
             "title": "Mítico Dance",
-            "price": "380 Bs/mes",
+            "price": "420 Bs/mes",
             "highlighted": true,
             "features": [
                 "Baile fitness",
@@ -133,7 +120,7 @@
             "packageId": "p-sesion_mitico",
             "image": "p-sesion_mitico.jpeg",
             "title": "Sesión Individual",
-            "price": "25 Bs/día",
+            "price": "30 Bs/día",
             "highlighted": false,
             "features": [
                 "Entrenamiento personalizado",
@@ -146,7 +133,7 @@
             "packageId": "p-trimestral_mitico",
             "image": "p-trimestral_mitico.jpeg",
             "title": "Plan Trimestral",
-            "price": "400 Bs/3 meses",
+            "price": "420 Bs/3 meses",
             "highlighted": true,
             "features": [
                 "Entrenamiento personalizado",
@@ -159,7 +146,7 @@
             "packageId": "p-semestral_mitico",
             "image": "p-semestral_mitico.jpeg",
             "title": "Plan Semestral",
-            "price": "800 Bs/6 meses",
+            "price": "820 Bs/6 meses",
             "highlighted": false,
             "features": [
                 "Entrenamiento personalizado",
@@ -168,7 +155,7 @@
                 "Acceso a todas las máquinas"
             ]
         },
-        {   
+        {
             "packageId": "p-anual_mitico",
             "image": "p-anual_mitico.jpeg",
             "title": "Plan Anual",
